@@ -9,7 +9,7 @@
 [![Build](https://img.shields.io/badge/Build-PyInstaller%20EXE-2EA44F?style=for-the-badge)](https://pyinstaller.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-[Features](#features) • [Installation](#installation) • [Build EXE](#building-the-windows-executable) • [Project Structure](#project-structure) • [Roadmap](#roadmap)
+[Preview](#preview) • [Features](#features) • [Installation](#installation) • [Build EXE](#building-the-windows-executable) • [Project Structure](#project-structure) • [Roadmap](#roadmap)
 
 </div>
 
@@ -18,6 +18,14 @@
 ## Overview
 
 **Cutie Smart AI** is a modular Python-based desktop assistant designed to deliver fast, responsive, and intuitive interactions right on your Windows machine. Built with a clean architecture (`main.py` + `jarvis.py`) and powered by `pygame-ce`, it runs smoothly both from source and as a standalone `.exe` application.
+
+---
+
+## Preview
+
+<div align="center">
+  <img src="assets/preview.png" alt="Cutie Smart AI Screen Preview" width="750" />
+</div>
 
 ---
 
@@ -36,9 +44,10 @@
 
 ```text
 Cutie-Smart-Ai/
+├── assets/
+│   └── preview.png     # AI screen screenshot for documentation
 ├── main.py             # Application entry point & UI loop
 ├── jarvis.py           # Core assistant logic & command processing
 ├── requirements.txt    # Project dependencies
 ├── .gitignore          # Ignored build artifacts & environment files
 └── README.md           # Project documentation
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9a496de8-5c90-44a1-a2ae-0a932e2e227d" />
