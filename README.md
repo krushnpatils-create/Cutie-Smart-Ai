@@ -24,7 +24,8 @@
 ## Preview
 
 <div align="center">
-  <img src="assets/preview.png" alt="Cutie Smart AI Screen Preview" width="750" />
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2544f609-6df8-40b6-99c3-3fec11ad0ca1" />
+
 </div>
 
 ---
