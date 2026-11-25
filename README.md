@@ -41,3 +41,4 @@ Cutie-Smart-Ai/
 ├── requirements.txt    # Project dependencies
 ├── .gitignore          # Ignored build artifacts & environment files
 └── README.md           # Project documentation
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/9a496de8-5c90-44a1-a2ae-0a932e2e227d" />
