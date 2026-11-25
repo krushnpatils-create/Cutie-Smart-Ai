@@ -9,7 +9,7 @@
 [![Build](https://img.shields.io/badge/Build-PyInstaller%20EXE-2EA44F?style=for-the-badge)](https://pyinstaller.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-[Preview](#preview) • [Features](#features) • [Installation](#installation) • [Build EXE](#building-the-windows-executable) • [Project Structure](#project-structure) • [Roadmap](#roadmap)
+[Preview](#preview) • [Features](#features) • [Installation](#installation) • [CMD Build & Deploy](#cmd-build--deployment) • [Project Structure](#project-structure) • [Roadmap](#roadmap)
 
 </div>
 
@@ -24,8 +24,7 @@
 ## Preview
 
 <div align="center">
-  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2544f609-6df8-40b6-99c3-3fec11ad0ca1" />
-
+  <img width="1919" height="1079" alt="Cutie Smart AI Screen Preview" src="https://github.com/user-attachments/assets/2544f609-6df8-40b6-99c3-3fec11ad0ca1" />
 </div>
 
 ---
@@ -45,8 +44,6 @@
 
 ```text
 Cutie-Smart-Ai/
-├── assets/
-│   └── preview.png     # AI screen screenshot for documentation
 ├── main.py             # Application entry point & UI loop
 ├── jarvis.py           # Core assistant logic & command processing
 ├── requirements.txt    # Project dependencies
